@@ -35,9 +35,8 @@ body {
 }
 .display-7 {
   font-family: 'Lexend', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1.5;
-  text-align: left;
 }
 .display-8 {
   font-family: 'Lexend', sans-serif;
@@ -1137,11 +1136,17 @@ a {
   margin: 0;
   overflow: visible;
   position: relative;
- 
- 
+  justify-content: center;
+  animation-name:  animation 3s ease infinite;
 }
-
-
+@keyframes animation{
+  from{
+    transform: scale(1,1);
+  }
+  to{
+    transform: scale(2,2);
+  }
+}
 @media (max-width: 767px) {
   .cid-sz55N7vCP2 .card-wrapper {
     padding: 2rem 1rem;
@@ -1348,7 +1353,6 @@ a {
 .cid-sz58oYjBZ7 .mbr-section-title {
   color: #263d5a;
 }
-
 @media (max-width: 992px) {
   .cid-sz58oYjBZ7 .card-wrapper {
     margin-bottom: 2rem;
