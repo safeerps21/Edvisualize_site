@@ -129,7 +129,7 @@ section .mbr-background-video-preview {
 
 /*! Text-aligns */
 .align-left {
-  text-align: left;
+  text-align: center;
 }
 
 .align-center {
@@ -263,6 +263,7 @@ iframe {
   margin-left: -0.6rem;
   margin-right: -0.6rem;
   font-size: 0;
+  align-items: stretch;
 }
 
 .btn {
@@ -609,6 +610,7 @@ nav .mbr-section-btn {
 
 .card-wrapper {
   -webkit-flex: 1;
+ 
 }
 
 .carousel-control {
