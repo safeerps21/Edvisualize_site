@@ -129,7 +129,7 @@ section .mbr-background-video-preview {
 
 /*! Text-aligns */
 .align-left {
-  text-align: center;
+  text-align: left;
 }
 
 .align-center {

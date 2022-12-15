@@ -1,5 +1,6 @@
 body {
   font-family: Lexend;
+  margin: 0;
 }
 .display-1 {
   font-family: 'Lexend', sans-serif;
@@ -611,7 +612,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #56667b;
+  color: #010e1f;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1122,13 +1123,15 @@ a {
   }
 }
 .cid-sz55N7vCP2 {
-  background-image: url("../../images/aI1.jpg");
+  background-image: url("../../../assets/images/background5.jpg");
+  
+
 }
 .cid-sz55N7vCP2 .mbr-overlay {
   backdrop-filter: blur(3.5px);
 }
 .cid-sz55N7vCP2 .card-wrapper {
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.245) 0%, rgba(255, 255, 255, 0.6) 100%);
   backdrop-filter: blur(3.5px);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
   border-radius: 30px;
@@ -1136,20 +1139,35 @@ a {
   margin: 0;
   overflow: visible;
   position: relative;
-  justify-content: center;
-  animation-name:  animation 3s ease infinite;
+  
+  width: 150%;
 }
-@keyframes animation{
-  from{
-    transform: scale(1,1);
-  }
-  to{
-    transform: scale(2,2);
-  }
-}
+
 @media (max-width: 767px) {
   .cid-sz55N7vCP2 .card-wrapper {
     padding: 2rem 1rem;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px ) {
+  .cid-sz55N7vCP2 .card-wrapper {
+    padding: 2rem 1rem;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1145px) {
+  .cid-sz55N7vCP2 .card-wrapper {
+    padding: 2rem 1rem;
+    width: 150%;
+  }
+}
+
+@media only screen and (min-width: 992px ) and (max-width:1200px ){
+  .cid-sz55N7vCP2 .card-wrapper {
+    padding: 2rem 1rem;
+    width: 150%;
   }
 }
 .cid-sz55N7vCP2 .card-wrapper:before {
@@ -1167,38 +1185,8 @@ a {
 .cid-sz55N7vCP2 .col-12 {
   position: relative;
 }
-.cid-sz55N7vCP2 .round {
-  position: absolute;
-  top: -60px;
-  right: -150px;
-  width: 280px;
-  height: 280px;
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
-  backdrop-filter: blur(3.5px);
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
-  border-radius: 50%;
-  z-index: 0;
-}
-@media (max-width: 767px) {
-  .cid-sz55N7vCP2 .round {
-    top: -30px;
-    right: -110px;
-    width: 180px;
-    height: 180px;
-  }
-}
-.cid-sz55N7vCP2 .round:before {
-  content: '';
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  opacity: 0.3;
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-  border: 2px solid white;
-  border-radius: 50%;
-}
+
+
 .cid-sz55N7vCP2 .round2 {
   top: auto;
   right: auto;
