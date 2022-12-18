@@ -57,7 +57,8 @@ align-items: center;
         padding: 10px;
     }
     #textSiz{
-        font-size: 11px;
+        font-size: 14px;
+        text-align: left;
         font-weight: 400px;
         text-shadow: 2px 3px 7px #cbc6c6;
     }
