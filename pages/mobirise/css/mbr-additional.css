@@ -875,7 +875,7 @@ a {
   margin: 0 !important;
 }
 .cid-sz55TXuY2C .navbar {
-  min-height: 90px;
+  min-height: 40px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
@@ -1133,13 +1133,13 @@ a {
 .cid-sz55N7vCP2 .card-wrapper {
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.245) 0%, rgba(255, 255, 255, 0.6) 100%);
   backdrop-filter: blur(3.5px);
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 20px 0 rgb(167, 167, 206);
   border-radius: 30px;
   padding: 6rem 3rem;
   margin: 0;
   overflow: visible;
   position: relative;
-  
+  /* background-image: url("../../../assets/images/background5.jpg"); */
   width: 150%;
 }
 

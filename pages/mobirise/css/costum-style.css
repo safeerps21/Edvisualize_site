@@ -4,7 +4,7 @@
 }
 
 .textPad{
-    padding: 60px;
+    padding: 20px;
     
     
 }
@@ -22,9 +22,17 @@
 }
 .picSiz{
 
-    width: 40%;
-    height: 40%;
+    width: 80%;
+    height: 50%;
 }
+#picSiz{
+align-items: center;
+    width: 90%;
+    height: 50%;
+    border-radius: 20px;
+    
+}
+
 @media screen and (min-width : 420px) and (max-width : 690px) {
     #textTit{
         font-size: 20px;
@@ -54,3 +62,166 @@
         text-shadow: 2px 3px 7px #cbc6c6;
     }
 }
+/* #titleButt{
+   
+        justify-content: flex-end;
+        z-index: 1;
+        border: 5px solid;
+        border-color: black;
+      } */
+
+      
+.Row{
+    list-style: none;
+    flex-direction: row;
+    position: relative;
+    justify-content: space-between;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+  
+    margin-left: 5px;
+  }
+  
+  /* Add a hover effect if you want */
+  /* .fa:hover {
+    opacity: 0.7;
+    color: rgb(198, 11, 11);
+  } */
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #04225f03;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(1, 4, 16);
+  }
+  .fa-facebook:hover {
+    transition: all;
+    background: #04225f;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(244, 244, 245);
+  }
+  /* Twitter */
+  .fa-twitter {
+    background: #55acee00;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(1, 6, 10);
+  }
+  .fa-twitter:hover {
+    transition: all;
+    background: #066899;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(244, 244, 245);
+  }
+  .fa-whatsapp {
+    background: #05670300;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(7, 1, 1);
+  }
+  .fa-whatsapp:hover {
+    transition: all;
+    background: #0e8508;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(244, 244, 245);
+  }
+  .fa-instagram {
+    background: #aa333300;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(12, 1, 1);
+  }
+  .fa-instagram:hover {
+    transition: all;
+    background: #e62424;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(244, 244, 245);
+  }
+  @media screen and (max-width : 296px) {
+    .fa {
+        padding: 12px;
+        font-size: 15px;
+        width: 40px;
+        height:40px;
+        text-align: center;
+        text-decoration: none;
+      
+        margin-left: 3px;
+      }
+      
+      /* Add a hover effect if you want */
+      /* .fa:hover {
+        opacity: 0.7;
+        color: rgb(198, 11, 11);
+      } */
+      
+      /* Set a specific color for each brand */
+      
+      /* Facebook */
+      .fa-facebook {
+        background: #04225f03;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(1, 4, 16);
+      }
+      .fa-facebook:hover {
+        transition: all;
+        background: #04225f;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(244, 244, 245);
+      }
+      /* Twitter */
+      .fa-twitter {
+        background: #55acee00;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(1, 6, 10);
+      }
+      .fa-twitter:hover {
+        transition: all;
+        background: #066899;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(244, 244, 245);
+      }
+      .fa-whatsapp {
+        background: #05670300;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(7, 1, 1);
+      }
+      .fa-whatsapp:hover {
+        transition: all;
+        background: #0e8508;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(244, 244, 245);
+      }
+      .fa-instagram {
+        background: #aa333300;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(12, 1, 1);
+      }
+      .fa-instagram:hover {
+        transition: all;
+        background: #e62424;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(244, 244, 245);
+      }
+    }
