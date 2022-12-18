@@ -1,5 +1,6 @@
 body {
   font-family: Lexend;
+ 
 }
 .display-1 {
   font-family: 'Lexend', sans-serif;
@@ -1285,7 +1286,9 @@ a {
   padding-top: 7rem;
   padding-bottom: 7rem;
   background-image: url("../../images/mbr-5.jpg");
+  
 }
+ 
 .cid-sz58oYjBZ7 .mbr-iconfont {
   display: inline-flex;
   align-items: center;
@@ -1307,7 +1310,7 @@ a {
 .cid-sz58oYjBZ7 img {
   height: 100%;
   object-fit: cover;
-  border-radius: 30px;
+  border-radius: 15px;
 }
 .cid-sz58oYjBZ7 .glass {
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
@@ -1984,9 +1987,9 @@ a {
   border-color: transparent!important;
 }
 .cid-sz56s32iCe .btn {
-  border-radius: 2rem;
-  padding: 1rem 3rem;
-  width: -webkit-fill-available;
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+  width: fit-content;
 }
 .cid-sz56s32iCe h4 {
   margin-bottom: 3rem;
