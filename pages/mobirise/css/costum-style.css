@@ -4,7 +4,7 @@
 }
 
 .textPad{
-    padding: 20px;
+    padding: 50px;
     
     
 }
@@ -47,6 +47,12 @@ align-items: center;
         font-weight: 400px;
         text-shadow: 2px 3px 7px #cbc6c6;
     }
+    #CarouselH{
+      font-size: 40px;
+    }
+    #carousel{
+      font-size: 20px;;
+    }
 }
 
 @media screen and (min-width : 120px) and (max-width : 420px) {
@@ -62,6 +68,12 @@ align-items: center;
         text-align: justify;
         font-weight: 400px;
         text-shadow: 2px 3px 7px #cbc6c6;
+    }
+    #CarouselH{
+      font-size: 40px;
+    }
+    #carousel{
+      font-size: 20px;;
     }
 }
 /* #titleButt{
@@ -81,7 +93,7 @@ align-items: center;
 }
 
 .fa {
-    padding: 15px;
+    padding: 9px;
     font-size: 20px;
     width: 53px;
     text-align: center;
@@ -247,13 +259,14 @@ align-items: center;
 
 }
 .fa {
-    padding: 15px;
+    padding: 09x;
     font-size: 20px;
-    width: 53px;
+    width: 40px;
+    height: 40px;
     text-align: center;
     text-decoration: none;
   
-    margin-left: 15px;
+    margin-left: 5px;
   }
   
   /* Add a hover effect if you want */
@@ -317,4 +330,16 @@ align-items: center;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(244, 244, 245);
+  }
+  #favIcon{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+  }
+  @media  screen and (min-width:300px) and  (max-width:757px) {
+    #favIcon{
+      width: 50px;
+      height: 50px;
+     margin-left: 100px;
+    }
   }
