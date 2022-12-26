@@ -350,14 +350,35 @@ align-items: center;
     margin-left: 5px;
 
   }
-  @media only screen and (max-width: 600px) {
+  @media screen and (max-width:245px)  {
   
     .serviceIcons{
 
       width: 100px;
       height: 100px;
-      margin-left: 100px;
+      margin-left: 40px;
   
     }
+  }
+
+  @media screen and (max-width : 370px)  {
   
+    .serviceIcons{
+
+      width: 100px;
+      height: 100px;
+      margin-left: 70px;
+  
+    }
+  }
+
+  @media  screen and (min-width:370px) and  (max-width:770px){
+
+    .serviceIcons{
+
+      width: 100px;
+      height: 100px;
+      margin-left: 150px;
+  
+    }
   }
