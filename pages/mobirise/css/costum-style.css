@@ -343,3 +343,10 @@ align-items: center;
      margin-left: 100px;
     }
   }
+  .serviceIcons{
+
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+
+  }

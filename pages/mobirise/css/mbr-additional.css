@@ -1219,7 +1219,7 @@ a {
   overflow: visible;
 }
 .cid-sz56fQL1rV .row {
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
+  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.6) 100%);
   backdrop-filter: blur(3.5px);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
   border-radius: 30px;

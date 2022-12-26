@@ -1214,7 +1214,7 @@ a {
 }
 .cid-sz55N7vCP2 .mbr-text,
 .cid-sz55N7vCP2 .mbr-section-btn {
-  color: #031832;
+  color: #d2d5d7;
 }
 .cid-sz56fQL1rV {
   padding-top: 6rem;
@@ -1232,7 +1232,7 @@ a {
   overflow: visible;
 }
 .cid-sz56fQL1rV .row {
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
+  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.977) 100%);
   backdrop-filter: blur(3.5px);
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
   border-radius: 30px;
