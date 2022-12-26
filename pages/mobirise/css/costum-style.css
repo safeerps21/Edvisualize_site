@@ -350,3 +350,14 @@ align-items: center;
     margin-left: 5px;
 
   }
+  @media  screen and (min-width:100px) and  (max-width:757px) {
+  
+    .serviceIcons{
+
+      width: 100px;
+      height: 100px;
+      margin-left: 50px;
+  
+    }
+  
+  }
