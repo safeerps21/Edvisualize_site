@@ -347,7 +347,7 @@ align-items: center;
 
     width: 100px;
     height: 100px;
-    margin-left: 5px;
+    margin-left: -1px;
 
   }
   @media screen and (max-width:245px)  {
@@ -356,7 +356,7 @@ align-items: center;
 
       width: 100px;
       height: 100px;
-      margin-left: 40px;
+      margin-left: 60px;
   
     }
   }
@@ -367,7 +367,7 @@ align-items: center;
 
       width: 100px;
       height: 100px;
-      margin-left: 70px;
+      margin-left: 85px;
   
     }
   }
