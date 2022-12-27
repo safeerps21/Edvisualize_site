@@ -1131,10 +1131,10 @@ a {
   backdrop-filter: blur(3.5px);
 }
 .cid-sz55N7vCP2 .card-wrapper {
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.245) 0%, rgba(255, 255, 255, 0.6) 100%);
+  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.6) 100%);
   backdrop-filter: blur(3.5px);
-  box-shadow: 0 0 20px 0 rgb(167, 167, 206);
-  border-radius: 30px;
+  /* box-shadow: 0 0 20px 0 rgb(1, 1, 9); */
+  border-radius: 10px;
   padding: 6rem 3rem;
   margin: 0;
   overflow: visible;
