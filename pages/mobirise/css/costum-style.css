@@ -12,13 +12,14 @@
 
     font-size: 30px;
     font-weight: 600px;
-    text-shadow: 2px 3px 7px #8c8888;
+    text-shadow: 2px 3px 7px #07075b;
     font-family: 'Lexend', sans-serif;
-    color: #06235e;
+    color: #ffffff;
 }
 #textSiz{
     font-size: 17px;
     font-weight: 400px;
+    color: rgb(255, 255, 255);
 
 }
 .picSiz{
@@ -372,13 +373,18 @@ align-items: center;
     }
   }
 
-  @media  screen and (min-width:370px) and  (max-width:770px){
+  /* @media  screen and (min-width:370px) and  (max-width:770px){
 
     .serviceIcons{
 
       width: 100px;
       height: 100px;
-      margin-left: 150px;
+      margin-left: 115px;
   
     }
-  }
+  } */
+    .cid-sz56sBQ95d {
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+      background-color: #000102;
+    }
