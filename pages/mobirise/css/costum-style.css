@@ -113,17 +113,19 @@ align-items: center;
   
   /* Facebook */
   .fa-facebook {
-    background: #04225f03;
+    background: #04225f;
+  
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(1, 4, 16);
+      color: rgb(244, 244, 245);
+   
   }
   .fa-facebook:hover {
     transition: all;
-    background: #04225f;
+      background: #04225f03;
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(244, 244, 245);
+     color: rgb(1, 4, 16);
   }
   /* Twitter */
   .fa-twitter {
@@ -346,8 +348,8 @@ align-items: center;
   }
   .serviceIcons{
 
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     margin-left: -1px;
 
   }
@@ -355,8 +357,8 @@ align-items: center;
   
     .serviceIcons{
 
-      width: 100px;
-      height: 100px;
+      width: 90px;
+      height: 90px;
       margin-left: 60px;
   
     }
@@ -366,8 +368,8 @@ align-items: center;
   
     .serviceIcons{
 
-      width: 100px;
-      height: 100px;
+      width: 90px;
+      height: 90px;
       margin-left: 85px;
   
     }
@@ -377,9 +379,15 @@ align-items: center;
 
     .serviceIcons{
 
+<<<<<<< HEAD
       width: 100px;
       height: 100px;
       margin-left: 115px;
+=======
+      width: 90px;
+      height: 90px;
+      margin-left: 150px;
+>>>>>>> f25ac5377d276dac0888c87ea10076e908904bd9
   
     }
   } */
