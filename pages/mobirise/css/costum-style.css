@@ -112,17 +112,19 @@ align-items: center;
   
   /* Facebook */
   .fa-facebook {
-    background: #04225f03;
+    background: #04225f;
+  
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(1, 4, 16);
+      color: rgb(244, 244, 245);
+   
   }
   .fa-facebook:hover {
     transition: all;
-    background: #04225f;
+      background: #04225f03;
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(244, 244, 245);
+     color: rgb(1, 4, 16);
   }
   /* Twitter */
   .fa-twitter {
