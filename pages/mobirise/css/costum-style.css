@@ -19,7 +19,8 @@
 #textSiz{
     font-size: 17px;
     font-weight: 400px;
-    color: rgb(255, 255, 255);
+    text-align: justify;
+    color: rgb(3, 9, 61);
 
 }
 .picSiz{
