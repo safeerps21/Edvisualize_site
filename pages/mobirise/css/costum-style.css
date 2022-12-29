@@ -122,50 +122,50 @@ align-items: center;
   }
   .fa-facebook:hover {
     transition: all;
-      background: #04225f03;
+    
     border: 1px solid;
     border-radius: 50%;
      color: rgb(1, 4, 16);
   }
   /* Twitter */
   .fa-twitter {
-    background: #55acee00;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(1, 6, 10);
-  }
-  .fa-twitter:hover {
-    transition: all;
     background: #066899;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(244, 244, 245);
   }
-  .fa-whatsapp {
-    background: #05670300;
+  .fa-twitter:hover {
+    transition: all;
+    
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(7, 1, 1);
+    color: rgb(0, 0, 3);
   }
-  .fa-whatsapp:hover {
-    transition: all;
+  .fa-whatsapp {
     background: #0e8508;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(244, 244, 245);
   }
-  .fa-instagram {
-    background: #aa333300;
+  .fa-whatsapp:hover {
+    transition: all;
+    
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(12, 1, 1);
+    color: rgb(0, 0, 0);
+  }
+  .fa-instagram {
+    background: #e62424;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(244, 244, 245);
   }
   .fa-instagram:hover {
     transition: all;
     background: #e62424;
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(244, 244, 245);
+    color: rgb(0, 0, 0);
   }
   @media screen and (max-width : 296px) {
     .fa {
@@ -189,57 +189,59 @@ align-items: center;
       
       /* Facebook */
       .fa-facebook {
-        background: #04225f03;
+        background: #04225f;
+      
         border: 1px solid;
         border-radius: 50%;
-        color: rgb(1, 4, 16);
+          color: rgb(244, 244, 245);
+       
       }
       .fa-facebook:hover {
         transition: all;
-        background: #04225f;
+        
         border: 1px solid;
         border-radius: 50%;
-        color: rgb(244, 244, 245);
+         color: rgb(1, 4, 16);
       }
       /* Twitter */
       .fa-twitter {
-        background: #55acee00;
-        border: 1px solid;
-        border-radius: 50%;
-        color: rgb(1, 6, 10);
-      }
-      .fa-twitter:hover {
-        transition: all;
         background: #066899;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(244, 244, 245);
       }
-      .fa-whatsapp {
-        background: #05670300;
+      .fa-twitter:hover {
+        transition: all;
+        
         border: 1px solid;
         border-radius: 50%;
-        color: rgb(7, 1, 1);
+        color: rgb(0, 0, 3);
       }
-      .fa-whatsapp:hover {
-        transition: all;
+      .fa-whatsapp {
         background: #0e8508;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(244, 244, 245);
       }
-      .fa-instagram {
-        background: #aa333300;
+      .fa-whatsapp:hover {
+        transition: all;
+        
         border: 1px solid;
         border-radius: 50%;
-        color: rgb(12, 1, 1);
+        color: rgb(0, 0, 0);
       }
-      .fa-instagram:hover {
-        transition: all;
+      .fa-instagram {
         background: #e62424;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(244, 244, 245);
+      }
+      .fa-instagram:hover {
+        transition: all;
+        
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(0, 0, 0);
       }
     }
     @media screen and (min-width : 296px) {
@@ -281,58 +283,60 @@ align-items: center;
   /* Set a specific color for each brand */
   
   /* Facebook */
-  .fa-facebook1 {
-    background: #04225f03;
+  .fa-facebook {
+    background: #04225f;
+  
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(255, 255, 255);
+      color: rgb(244, 244, 245);
+   
   }
   .fa-facebook:hover {
     transition: all;
-    background: #04225f;
+    
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(244, 244, 245);
+     color: rgb(1, 4, 16);
   }
   /* Twitter */
   .fa-twitter {
-    background: #55acee00;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(1, 6, 10);
-  }
-  .fa-twitter:hover {
-    transition: all;
     background: #066899;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(244, 244, 245);
   }
-  .fa-whatsapp {
-    background: #05670300;
+  .fa-twitter:hover {
+    transition: all;
+    
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(7, 1, 1);
+    color: rgb(0, 0, 3);
   }
-  .fa-whatsapp:hover {
-    transition: all;
+  .fa-whatsapp {
     background: #0e8508;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(244, 244, 245);
   }
-  .fa-instagram {
-    background: #aa333300;
+  .fa-whatsapp:hover {
+    transition: all;
+    
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(12, 1, 1);
+    color: rgb(0, 0, 0);
   }
-  .fa-instagram:hover {
-    transition: all;
+  .fa-instagram {
     background: #e62424;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(244, 244, 245);
+  }
+  .fa-instagram:hover {
+    transition: all;
+   
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
   }
   #favIcon{
     width: 50px;
@@ -383,7 +387,7 @@ align-items: center;
       width: 100px;
       height: 100px;
       margin-left: 115px;
-=======
+ 
       width: 90px;
       height: 90px;
       margin-left: 150px;
