@@ -875,7 +875,7 @@ a {
   margin: 0 !important;
 }
 .cid-sz55TXuY2C .navbar {
-  min-height: 40px;
+  /* min-height: 40px; */
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
