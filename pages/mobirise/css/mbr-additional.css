@@ -879,7 +879,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(255, 255, 255, 0.952);
+  background: rgb(255, 255, 255);
 }
 .cid-sz55TXuY2C .navbar.opened {
   transition: all 0.3s;
