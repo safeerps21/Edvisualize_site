@@ -12,9 +12,9 @@
 
     font-size: 30px;
     font-weight: 600px;
-    text-shadow: 2px 3px 7px #07075b;
+    /* text-shadow: 2px 3px 7px #07075b00; */
     font-family: 'Lexend', sans-serif;
-    color: #ffffff;
+    color: rgb(3, 9, 61);
 }
 #textSiz{
     font-size: 17px;
