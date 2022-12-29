@@ -123,7 +123,7 @@ align-items: center;
   }
   .fa-facebook:hover {
     transition: all;
-    
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
      color: rgb(1, 4, 16);
@@ -137,7 +137,7 @@ align-items: center;
   }
   .fa-twitter:hover {
     transition: all;
-    
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 3);
@@ -150,7 +150,7 @@ align-items: center;
   }
   .fa-whatsapp:hover {
     transition: all;
-    
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 0);
@@ -163,7 +163,7 @@ align-items: center;
   }
   .fa-instagram:hover {
     transition: all;
-    background: #e62424;
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 0);
@@ -199,7 +199,7 @@ align-items: center;
       }
       .fa-facebook:hover {
         transition: all;
-        
+        background: transparent;
         border: 1px solid;
         border-radius: 50%;
          color: rgb(1, 4, 16);
@@ -213,7 +213,7 @@ align-items: center;
       }
       .fa-twitter:hover {
         transition: all;
-        
+        background: transparent;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(0, 0, 3);
@@ -226,7 +226,7 @@ align-items: center;
       }
       .fa-whatsapp:hover {
         transition: all;
-        
+        background: transparent;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(0, 0, 0);
@@ -239,7 +239,7 @@ align-items: center;
       }
       .fa-instagram:hover {
         transition: all;
-        
+        background: transparent;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(0, 0, 0);
@@ -294,7 +294,7 @@ align-items: center;
   }
   .fa-facebook:hover {
     transition: all;
-    
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
      color: rgb(1, 4, 16);
@@ -308,7 +308,7 @@ align-items: center;
   }
   .fa-twitter:hover {
     transition: all;
-    
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 3);
@@ -321,7 +321,7 @@ align-items: center;
   }
   .fa-whatsapp:hover {
     transition: all;
-    
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 0);
@@ -334,7 +334,7 @@ align-items: center;
   }
   .fa-instagram:hover {
     transition: all;
-   
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 0);
