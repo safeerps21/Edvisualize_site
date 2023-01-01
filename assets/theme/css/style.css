@@ -208,7 +208,7 @@ figure[mbr-media-size] {
 
 img,
 iframe {
-  display: block;
+  display: inline;
   width: 100%;
 }
 
@@ -893,8 +893,8 @@ blockquote {
     margin-right: -16px;
   }
   .row > [class*=col] {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
   }
 }
 @media (min-width: 768px) {
