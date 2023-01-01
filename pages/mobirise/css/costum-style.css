@@ -30,15 +30,9 @@
 }
 #picSiz{
 align-items: center;
-<<<<<<< HEAD
     width: 90%;
     height: 30%;
     border-radius: 5px;
-=======
-    width: 70%;
-    height: 20%;
-    
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
     
 }
 
@@ -143,17 +137,10 @@ align-items: center;
   }
   .fa-twitter:hover {
     transition: all;
-<<<<<<< HEAD
     background: #06689900;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 11);
-=======
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(0, 0, 3);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-whatsapp {
     background: #0e8508;
@@ -163,17 +150,10 @@ align-items: center;
   }
   .fa-whatsapp:hover {
     transition: all;
-<<<<<<< HEAD
     background: #0e850800;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 5);
-=======
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(0, 0, 0);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-instagram {
     background: #e62424;
@@ -218,7 +198,6 @@ align-items: center;
       /* Facebook */
       .fa-facebook {
         background: #04225f;
-<<<<<<< HEAD
         border: 1px solid;
         border-radius: 50%;
         color: rgb(238, 239, 244);
@@ -226,17 +205,6 @@ align-items: center;
       .fa-facebook:hover {
         transition: all;
         background: #04225f00;
-=======
-      
-        border: 1px solid;
-        border-radius: 50%;
-          color: rgb(244, 244, 245);
-       
-      }
-      .fa-facebook:hover {
-        transition: all;
-        background: transparent;
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
         border: 1px solid;
         border-radius: 50%;
          color: rgb(1, 4, 16);
@@ -250,17 +218,10 @@ align-items: center;
       }
       .fa-twitter:hover {
         transition: all;
-<<<<<<< HEAD
         background: #06689900;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(1, 1, 7);
-=======
-        background: transparent;
-        border: 1px solid;
-        border-radius: 50%;
-        color: rgb(0, 0, 3);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
       }
       .fa-whatsapp {
         background: #0e8508;
@@ -270,17 +231,10 @@ align-items: center;
       }
       .fa-whatsapp:hover {
         transition: all;
-<<<<<<< HEAD
         background: #0e850800;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(0, 0, 7);
-=======
-        background: transparent;
-        border: 1px solid;
-        border-radius: 50%;
-        color: rgb(0, 0, 0);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
       }
       .fa-instagram {
         background: #e62424;
@@ -342,14 +296,8 @@ align-items: center;
   /* Set a specific color for each brand */
   
   /* Facebook */
-<<<<<<< HEAD
   .fa-facebook1 {
     background: #04225f;
-=======
-  .fa-facebook {
-    background: #04225f;
-  
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
     border: 1px solid;
     border-radius: 50%;
       color: rgb(244, 244, 245);
@@ -357,17 +305,10 @@ align-items: center;
   }
   .fa-facebook:hover {
     transition: all;
-<<<<<<< HEAD
     background: #04225f01;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 3);
-=======
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-     color: rgb(1, 4, 16);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   /* Twitter */
   .fa-twitter {
@@ -378,17 +319,10 @@ align-items: center;
   }
   .fa-twitter:hover {
     transition: all;
-<<<<<<< HEAD
     background: #06689903;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 1);
-=======
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(0, 0, 3);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-whatsapp {
     background: #0e8508;
@@ -398,17 +332,10 @@ align-items: center;
   }
   .fa-whatsapp:hover {
     transition: all;
-<<<<<<< HEAD
     background: #0e850800;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 5);
-=======
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(0, 0, 0);
->>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-instagram {
     background: #e62424;
