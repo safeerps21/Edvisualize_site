@@ -116,7 +116,7 @@ align-items: center;
   .fa-facebook {
     background: #04225f;
   
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
       color: rgb(244, 244, 245);
    
@@ -131,7 +131,7 @@ align-items: center;
   /* Twitter */
   .fa-twitter {
     background: #066899;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
     color: rgb(250, 252, 254);
   }
@@ -144,7 +144,7 @@ align-items: center;
   }
   .fa-whatsapp {
     background: #0e8508;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
     color: rgb(249, 245, 245);
   }
@@ -157,7 +157,7 @@ align-items: center;
   }
   .fa-instagram {
     background: #e62424;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
     color: rgb(249, 246, 246);
   }
@@ -168,13 +168,8 @@ align-items: center;
     border-radius: 50%;
     color: rgb(0, 0, 4);
   }
-  .fa-instagram:hover {
-    transition: all;
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(0, 0, 0);
-  }
+ 
+  
   @media screen and (max-width : 296px) {
     .fa {
         padding: 10px;
@@ -198,7 +193,7 @@ align-items: center;
       /* Facebook */
       .fa-facebook {
         background: #04225f;
-        border: 1px solid;
+        /* border: 1px solid; */
         border-radius: 50%;
         color: rgb(238, 239, 244);
       }
@@ -212,7 +207,7 @@ align-items: center;
       /* Twitter */
       .fa-twitter {
         background: #066899;
-        border: 1px solid;
+        /* border: 1px solid; */
         border-radius: 50%;
         color: rgb(250, 250, 250);
       }
@@ -225,7 +220,7 @@ align-items: center;
       }
       .fa-whatsapp {
         background: #0e8508;
-        border: 1px solid;
+        /* border: 1px solid; */
         border-radius: 50%;
         color: rgb(248, 242, 242);
       }
@@ -238,24 +233,18 @@ align-items: center;
       }
       .fa-instagram {
         background: #e62424;
-        border: 1px solid;
+        /* border: 1px solid; */
         border-radius: 50%;
         color: rgb(244, 243, 243);
       }
       .fa-instagram:hover {
         transition: all;
         background: #e6242400;
-        border: 1px solid;
+        /* border: 1px solid; */
         border-radius: 50%;
         color: rgb(0, 0, 6);
       }
-      .fa-instagram:hover {
-        transition: all;
-        background: transparent;
-        border: 1px solid;
-        border-radius: 50%;
-        color: rgb(0, 0, 0);
-      }
+   
     }
     @media screen and (min-width : 296px) {
       .AboutP{
@@ -298,7 +287,7 @@ align-items: center;
   /* Facebook */
   .fa-facebook1 {
     background: #04225f;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
       color: rgb(244, 244, 245);
    
@@ -313,7 +302,7 @@ align-items: center;
   /* Twitter */
   .fa-twitter {
     background: #066899;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
     color: rgb(244, 247, 249);
   }
@@ -326,7 +315,7 @@ align-items: center;
   }
   .fa-whatsapp {
     background: #0e8508;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
     color: rgb(247, 245, 245);
   }
@@ -339,7 +328,7 @@ align-items: center;
   }
   .fa-instagram {
     background: #e62424;
-    border: 1px solid;
+    /* border: 1px solid; */
     border-radius: 50%;
     color: rgb(247, 244, 244);
   }
@@ -350,13 +339,7 @@ align-items: center;
     border-radius: 50%;
     color: rgb(0, 0, 6);
   }
-  .fa-instagram:hover {
-    transition: all;
-    background: transparent;
-    border: 1px solid;
-    border-radius: 50%;
-    color: rgb(0, 0, 0);
-  }
+
   #favIcon{
     width: 50px;
     height: 50px;
