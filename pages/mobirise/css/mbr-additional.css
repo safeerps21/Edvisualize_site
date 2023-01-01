@@ -931,11 +931,11 @@ a {
   margin: 0 !important;
 }
 .cid-sz55TXuY2C .navbar {
-  min-height: 40px;
+  /* min-height: 40px; */
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgb(255, 255, 255);
 }
 .cid-sz55TXuY2C .navbar.opened {
   transition: all 0.3s;

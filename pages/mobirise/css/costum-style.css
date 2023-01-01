@@ -12,14 +12,15 @@
 
     font-size: 30px;
     font-weight: 600px;
-    text-shadow: 2px 3px 7px #07075b;
+    /* text-shadow: 2px 3px 7px #07075b00; */
     font-family: 'Lexend', sans-serif;
-    color: #ffffff;
+    color: rgb(3, 9, 61);
 }
 #textSiz{
     font-size: 17px;
     font-weight: 400px;
-    color: rgb(255, 255, 255);
+    text-align: justify;
+    color: rgb(3, 9, 61);
 
 }
 .picSiz{
@@ -29,9 +30,15 @@
 }
 #picSiz{
 align-items: center;
+<<<<<<< HEAD
     width: 90%;
     height: 30%;
     border-radius: 5px;
+=======
+    width: 70%;
+    height: 20%;
+    
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
     
 }
 
@@ -122,7 +129,7 @@ align-items: center;
   }
   .fa-facebook:hover {
     transition: all;
-      background: #04225f03;
+    background: transparent;
     border: 1px solid;
     border-radius: 50%;
      color: rgb(1, 4, 16);
@@ -136,10 +143,17 @@ align-items: center;
   }
   .fa-twitter:hover {
     transition: all;
+<<<<<<< HEAD
     background: #06689900;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 11);
+=======
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 3);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-whatsapp {
     background: #0e8508;
@@ -149,10 +163,17 @@ align-items: center;
   }
   .fa-whatsapp:hover {
     transition: all;
+<<<<<<< HEAD
     background: #0e850800;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 5);
+=======
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-instagram {
     background: #e62424;
@@ -166,6 +187,13 @@ align-items: center;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 4);
+  }
+  .fa-instagram:hover {
+    transition: all;
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
   }
   @media screen and (max-width : 296px) {
     .fa {
@@ -190,6 +218,7 @@ align-items: center;
       /* Facebook */
       .fa-facebook {
         background: #04225f;
+<<<<<<< HEAD
         border: 1px solid;
         border-radius: 50%;
         color: rgb(238, 239, 244);
@@ -197,9 +226,20 @@ align-items: center;
       .fa-facebook:hover {
         transition: all;
         background: #04225f00;
+=======
+      
         border: 1px solid;
         border-radius: 50%;
-        color: rgb(244, 244, 245);
+          color: rgb(244, 244, 245);
+       
+      }
+      .fa-facebook:hover {
+        transition: all;
+        background: transparent;
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
+        border: 1px solid;
+        border-radius: 50%;
+         color: rgb(1, 4, 16);
       }
       /* Twitter */
       .fa-twitter {
@@ -210,10 +250,17 @@ align-items: center;
       }
       .fa-twitter:hover {
         transition: all;
+<<<<<<< HEAD
         background: #06689900;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(1, 1, 7);
+=======
+        background: transparent;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(0, 0, 3);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
       }
       .fa-whatsapp {
         background: #0e8508;
@@ -223,10 +270,17 @@ align-items: center;
       }
       .fa-whatsapp:hover {
         transition: all;
+<<<<<<< HEAD
         background: #0e850800;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(0, 0, 7);
+=======
+        background: transparent;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(0, 0, 0);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
       }
       .fa-instagram {
         background: #e62424;
@@ -240,6 +294,13 @@ align-items: center;
         border: 1px solid;
         border-radius: 50%;
         color: rgb(0, 0, 6);
+      }
+      .fa-instagram:hover {
+        transition: all;
+        background: transparent;
+        border: 1px solid;
+        border-radius: 50%;
+        color: rgb(0, 0, 0);
       }
     }
     @media screen and (min-width : 296px) {
@@ -281,18 +342,32 @@ align-items: center;
   /* Set a specific color for each brand */
   
   /* Facebook */
+<<<<<<< HEAD
   .fa-facebook1 {
     background: #04225f;
+=======
+  .fa-facebook {
+    background: #04225f;
+  
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
     border: 1px solid;
     border-radius: 50%;
-    color: rgb(255, 255, 255);
+      color: rgb(244, 244, 245);
+   
   }
   .fa-facebook:hover {
     transition: all;
+<<<<<<< HEAD
     background: #04225f01;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 3);
+=======
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+     color: rgb(1, 4, 16);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   /* Twitter */
   .fa-twitter {
@@ -303,10 +378,17 @@ align-items: center;
   }
   .fa-twitter:hover {
     transition: all;
+<<<<<<< HEAD
     background: #06689903;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 1);
+=======
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 3);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-whatsapp {
     background: #0e8508;
@@ -316,10 +398,17 @@ align-items: center;
   }
   .fa-whatsapp:hover {
     transition: all;
+<<<<<<< HEAD
     background: #0e850800;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 5);
+=======
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
   }
   .fa-instagram {
     background: #e62424;
@@ -333,6 +422,13 @@ align-items: center;
     border: 1px solid;
     border-radius: 50%;
     color: rgb(0, 0, 6);
+  }
+  .fa-instagram:hover {
+    transition: all;
+    background: transparent;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
   }
   #favIcon{
     width: 50px;
@@ -379,6 +475,14 @@ align-items: center;
 
     .serviceIcons{
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      width: 100px;
+      height: 100px;
+      margin-left: 115px;
+ 
+>>>>>>> 6976b1ce37a3423f57fce6cc8ae5dcd15531a6b3
       width: 90px;
       height: 90px;
       margin-left: 150px;
