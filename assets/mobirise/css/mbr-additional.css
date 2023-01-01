@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: "arial", heletica, sans-serif;
   font-size: 12px;
-  background: #2980b9
+  background: #31279d
     url("https://static.tumblr.com/03fbbc566b081016810402488936fbae/pqpk3dn/MRSmlzpj3/tumblr_static_bg3.png")
     repeat 0 0;
   -webkit-animation: 10s linear 0s normal none infinite animate;
@@ -259,7 +259,7 @@ body {
 }
 .btn-success {
   background-color: #e3e5e713 !important;
-  background: linear-gradient(90deg, #f4f3f512 0%, #f6f6f795 100%);
+  background: linear-gradient(90deg, #f4f3f512 0%, #f6f6f7c4 90%);
   border: none;
   transition: all 0.3s;
 }
@@ -1189,7 +1189,7 @@ a {
   backdrop-filter: blur(3.5px);
 }
 .cid-sz55N7vCP2 .card-wrapper {
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.226) 0%, rgba(255, 255, 255, 0.281) 100%);
+  background: linear-gradient(0deg, rgba(113, 111, 111, 0.144) 0%, rgba(249, 248, 248, 0.768) 70%);
   backdrop-filter: blur(3.5px);
   box-shadow: 0px 9px 1px  rgba(0, 0, 0, 0.193);
   border-radius: 10px;
