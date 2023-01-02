@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: "arial", heletica, sans-serif;
   font-size: 12px;
-  background: #31279d
+  background: #282178
     url("https://static.tumblr.com/03fbbc566b081016810402488936fbae/pqpk3dn/MRSmlzpj3/tumblr_static_bg3.png")
     repeat 0 0;
   -webkit-animation: 10s linear 0s normal none infinite animate;
@@ -106,6 +106,12 @@ body {
   line-height: 1.5;
   font-weight: bold;
 }
+.display-10 {
+  font-family: 'Lexend', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
 .display-7 > .mbr-iconfont {
   font-size: 1.625rem;
 }
@@ -1371,7 +1377,7 @@ a {
 .cid-sz58oYjBZ7 img {
   height: 100%;
   object-fit: cover;
-  border-radius: 15px;
+  border-radius: 1px;
 }
 .cid-sz58oYjBZ7 .glass {
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
@@ -1856,7 +1862,8 @@ a {
 .cid-sz56r2ZeJA {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-image: url("../../images/background65.jpg");
+  /* background-image: url("../../images/background65.jpg"); */
+  background: rgba(0, 0, 0, 0.003);
 }
 .cid-sz56r2ZeJA .mbr-iconfont {
   display: inline-flex;

@@ -5,8 +5,7 @@
 
 .textPad{
     padding: 50px;
-    
-    
+        
 }
 #textTit{
 
@@ -407,4 +406,11 @@ align-items: center;
       padding-top: 5rem;
       padding-bottom: 5rem;
       background-color: #000102;
+    }
+
+    .callUs{
+
+font-size: x-large;
+margin-top: 400px;
+
     }
