@@ -1180,8 +1180,15 @@
 </a> -->
 <!-- <a href="#0" class="scrollToTop"></i></a> -->
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><img src="assets/images/up-arrow (2).png"></a>
-
-
+<script>
+$(document).ready(function () { 
+    $(document).click(function () {
+       // if($(".navbar-collapse").hasClass("in")){
+         $('.navbar-collapse').collapse('hide');
+       // }
+    });
+  });
+</script>
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/ytplayer/index.js"></script>

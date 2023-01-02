@@ -14,13 +14,13 @@
     font-weight: 600px;
     /* text-shadow: 2px 3px 7px #07075b00; */
     font-family: 'Lexend', sans-serif;
-    color: rgb(3, 9, 61);
+    color:whitesmoke;
 }
 #textSiz{
     font-size: 17px;
     font-weight: 400px;
     text-align: justify;
-    color: rgb(3, 9, 61);
+    color: rgb(238, 239, 241);
 
 }
 .picSiz{
@@ -40,6 +40,7 @@ align-items: center;
     #textTit{
         font-size: 20px;
         font-weight: 300px;
+        color: whitesmoke;
     }
     .textPad{
         padding: 2px;
@@ -47,7 +48,8 @@ align-items: center;
     #textSiz{
         font-size: 11px;
         font-weight: 400px;
-        text-shadow: 2px 3px 7px #cbc6c6;
+        /* text-shadow: 2px 3px 7px #cbc6c6; */
+        color: white;
     }
     #CarouselH{
       font-size: 40px;
@@ -61,6 +63,7 @@ align-items: center;
     #textTit{
         font-size: 20px;
         font-weight: 300px;
+        color: whitesmoke;
     }
     .textPad{
         padding: 10px;
@@ -69,7 +72,8 @@ align-items: center;
         font-size: 14px;
         text-align: justify;
         font-weight: 400px;
-        text-shadow: 2px 3px 7px #cbc6c6;
+        color: white;
+        /* text-shadow: 2px 3px 7px #cbc6c6; */
     }
     #CarouselH{
       font-size: 40px;
