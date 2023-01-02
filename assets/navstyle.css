@@ -6,7 +6,7 @@
     transition: all 0.5s;
     z-index: 997;
     padding: 20px 0;
-    /* background-color: #4a6586 ; */
+    background-color: #ffffff8c ;
   /* background: linear-gradient(90deg, #554a86 0%, #08103a56 100%); */
   }
   
@@ -213,13 +213,13 @@
   .navbar-mobile ul {
     display: block;
     position: absolute;
-    top: 60px;
-    right: 15px;
-    bottom: 15px;
+    top: 69px;
+    right: -1px;
+    bottom: 430px;
     left: 130px;
     padding: 10px 0;
     border-radius: 5px;
-    background-color: rgb(247, 247, 247);
+    background-color: rgba(247, 247, 247, 0.586);
     overflow-y: auto;
     transition: 0.3s;
   }
