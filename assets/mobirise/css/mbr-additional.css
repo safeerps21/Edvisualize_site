@@ -1377,7 +1377,7 @@ a {
 .cid-sz58oYjBZ7 img {
   height: 100%;
   object-fit: cover;
-  border-radius: 1px;
+  border-radius: 9px;
 }
 .cid-sz58oYjBZ7 .glass {
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);

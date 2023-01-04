@@ -1,3 +1,29 @@
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+@media (max-width: 750px) {
+  #background-video { display:visible;}
+  body {
+    background: url("../../../assets/images/FallingStars5Videvo.mov") no-repeat;
+    background-size: cover;
+  }
+}
+.section{
+ background-color:#141b3800;
+ margin-top: 2rem;
+ border-bottom: 1px solid white;
+ 
+}
+
 #img{
     height: min-content;
     width: min-content;
@@ -9,17 +35,18 @@
 }
 #textTit{
 
-    font-size: 30px;
+    font-size: 36px;
     font-weight: 600px;
-    /* text-shadow: 2px 3px 7px #07075b00; */
+    text-shadow: 2px 3px 7px #07075b;
     font-family: 'Lexend', sans-serif;
-    color:whitesmoke;
+    color:rgb(255, 255, 255);
 }
 #textSiz{
-    font-size: 17px;
-    font-weight: 400px;
+    font-size: 18px;
+    font-weight: 100px;
+    text-shadow: 2px 3px 7px #07075b;
     text-align: justify;
-    color: rgb(238, 239, 241);
+    color: #f9fafb;
 
 }
 .picSiz{
