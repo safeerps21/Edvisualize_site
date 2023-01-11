@@ -13,7 +13,7 @@
 @media (max-width: 750px) {
   #background-video { display:visible;}
   body {
-    background: url("../../../assets/images/FallingStars5Videvo.mov") no-repeat;
+   
     background-size: cover;
   }
 }
@@ -37,16 +37,16 @@
 
     font-size: 36px;
     font-weight: 600px;
-    text-shadow: 2px 3px 7px #07075b;
+    /* text-shadow: 2px 3px 7px #07075b; */
     font-family: 'Lexend', sans-serif;
-    color:rgb(255, 255, 255);
+    color:#07075b;
 }
 #textSiz{
     font-size: 18px;
     font-weight: 100px;
-    text-shadow: 2px 3px 7px #07075b;
+    /* text-shadow: 2px 3px 7px #07075b; */
     text-align: justify;
-    color: #f9fafb;
+    color:#07075b;
 
 }
 .picSiz{
@@ -66,7 +66,7 @@ align-items: center;
     #textTit{
         font-size: 20px;
         font-weight: 300px;
-        color: whitesmoke;
+        color: #07075b;
     }
     .textPad{
         padding: 2px;
@@ -75,7 +75,7 @@ align-items: center;
         font-size: 11px;
         font-weight: 400px;
         /* text-shadow: 2px 3px 7px #cbc6c6; */
-        color: white;
+        color: #07075b;
     }
     #CarouselH{
       font-size: 40px;
@@ -89,7 +89,7 @@ align-items: center;
     #textTit{
         font-size: 20px;
         font-weight: 300px;
-        color: whitesmoke;
+        color: #07075b;
     }
     .textPad{
         padding: 10px;
@@ -98,7 +98,7 @@ align-items: center;
         font-size: 14px;
         text-align: justify;
         font-weight: 400px;
-        color: white;
+        color: #07075b;
         /* text-shadow: 2px 3px 7px #cbc6c6; */
     }
     #CarouselH{
