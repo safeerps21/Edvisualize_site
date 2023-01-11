@@ -37,14 +37,14 @@
 
     font-size: 36px;
     font-weight: 600px;
-    text-shadow: 2px 3px 7px #07075b;
+    text-shadow: 2px 3px 7px #000000;
     font-family: 'Lexend', sans-serif;
     color:rgb(255, 255, 255);
 }
 #textSiz{
     font-size: 18px;
     font-weight: 100px;
-    text-shadow: 2px 3px 7px #07075b;
+    text-shadow: 2px 3px 8px #000000;
     text-align: justify;
     color: #f9fafb;
 
