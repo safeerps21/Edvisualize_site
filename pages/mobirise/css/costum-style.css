@@ -37,14 +37,14 @@
 
     font-size: 36px;
     font-weight: 600px;
-    text-shadow: 2px 3px 7px #000000;
+    /* text-shadow: 2px 3px 7px #000000; */
     font-family: 'Lexend', sans-serif;
     color:rgb(255, 255, 255);
 }
 #textSiz{
     font-size: 18px;
     font-weight: 100px;
-    text-shadow: 2px 3px 8px #000000;
+    /* text-shadow: 2px 3px 8px #000000; */
     text-align: justify;
     color: #f9fafb;
 
@@ -431,7 +431,7 @@ align-items: center;
   } */
     .cid-sz56sBQ95d {
       padding-top: 5rem;
-      padding-bottom: 5rem;
+      /* padding-bottom: 5rem; */
       background-color: #000102;
     }
 
@@ -442,8 +442,16 @@ margin-top: 400px;
 
     }
 
+  
+#web{
+  display: flex;
+     margin-left: 30rem;
+}
 
-/*navbar/
-
-
-/*navbarend/
+@media screen and (max-width :400px)  {
+  #web{
+    display: flex;
+       margin-left: 7rem;
+  }
+   
+}

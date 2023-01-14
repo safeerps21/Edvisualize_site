@@ -1199,7 +1199,7 @@ a {
   backdrop-filter: blur(3.5px);
   box-shadow: 0px 9px 1px  rgba(0, 0, 0, 0.193);
   border-radius: 10px;
-  padding: 4rem 3rem;
+  padding: 2rem 3rem;
   margin: 0;
   overflow: visible;
   position: relative;
@@ -1286,7 +1286,9 @@ a {
 .cid-sz56fQL1rV {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../images/background5.jpg");
+  background-image: url("../../images/background5.jpg" );
+  background-repeat: no-repeat;
+  
 }
 .cid-sz56fQL1rV .mbr-iconfont {
   display: inline-flex;
@@ -1860,7 +1862,7 @@ a {
   color: #263d5a;
 }
 .cid-sz56r2ZeJA {
-  /* padding-top: 8rem; */
+  padding-top: 8rem;
   padding-bottom: 8rem;
   /* background-image: url("../../images/background65.jpg"); */
   background: rgba(0, 0, 0, 0.003);
@@ -2212,7 +2214,7 @@ a {
 }
 .cid-sz56sBQ95d {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  /* padding-bottom: 5rem; */
   background-color: #141b38;
 }
 .cid-sz56sBQ95d .social-row {
