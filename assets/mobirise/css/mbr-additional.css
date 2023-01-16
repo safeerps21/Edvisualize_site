@@ -1894,7 +1894,7 @@ a {
 }
 @media (max-width: 767px) {
   .cid-sz56r2ZeJA .row {
-    padding: 3rem 1rem;
+    padding: 3rem 0;
   }
 }
 .cid-sz56r2ZeJA .row:before {
