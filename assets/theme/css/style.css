@@ -206,11 +206,7 @@ figure[mbr-media-size] {
   transition: width 0.1s;
 }
 
-img,
-iframe {
-  display: inline;
-  width: 100%;
-}
+ 
 
 .card {
   background-color: transparent;

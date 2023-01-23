@@ -2,39 +2,11 @@
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-.header {
-    transition: all 0.5s;
-    z-index: 997;
-    padding: 9px 0;
-    background-color: #ffffffef ;
-  /* background: linear-gradient(90deg, #554a86 0%, #08103a56 100%); */
-  }
+ 
   
-  .header.header-scrolled {
-    background-color: rgb(255, 254, 254);
-
-    padding: 15px 0;
-    box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
-
-  }
-  
-  .header .logo {
-    line-height: 0;
-  }
-  
-  .header .logo img {
-    max-height: 40px;
-    margin-right: 6px;
-  }
-  
-  .header .logo span {
-    font-size: 30px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    color: #050000;
-    font-family: "Nunito", sans-serif;
-    margin-top: 3px;
-  }
+ 
+ 
+ 
   
   /*--------------------------------------------------------------
   # Navigation Menu

@@ -1945,7 +1945,7 @@ a {
   align-items: center;
 }
 .cid-sz57ONqHWB .row {
-  max-width: 900px;
+  /* max-width: 900px; */
   margin: auto;
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.6) 100%);
   backdrop-filter: blur(3.5px);
