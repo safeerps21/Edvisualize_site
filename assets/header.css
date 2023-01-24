@@ -243,7 +243,7 @@ header {
     }
 }
 
-@media (min-width:375px) and (max-width:394px) {
+@media (min-width:374px) and (max-width:394px) {
     #navbar {
         position: fixed;
         bottom: -100%;
@@ -258,7 +258,7 @@ header {
 
     #navbar.active {
         height: calc(46vh - 60px);
-        bottom: 28rem;
+        bottom: 30rem;
         width: 235px;
     }
 
@@ -311,7 +311,7 @@ header {
 
     #navbar.active {
         height: calc(60vh - 60px);
-    bottom: 15rem;
+    bottom: 17rem;
     width: 190px;
     }
 
@@ -364,7 +364,7 @@ header {
 
     #navbar.active {
         height: calc(58vh - 60px);
-        bottom: 19rem;
+        bottom: 20rem;
         width: 202px;
     }
 
@@ -417,7 +417,7 @@ header {
 
     #navbar.active {
         height: calc(45vh - 60px);
-        bottom: 29rem;
+        bottom: 32rem;
         width: 230px;
     }
 

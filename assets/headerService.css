@@ -311,7 +311,7 @@ header {
 
     #navbar.active {
         height: calc(60vh - 60px);
-    bottom: 17rem;
+    bottom: 16rem;
     width: 190px;
     }
 
@@ -417,7 +417,7 @@ header {
 
     #navbar.active {
         height: calc(45vh - 60px);
-        bottom: 32rem;
+        bottom: 30rem;
         width: 230px;
     }
 
