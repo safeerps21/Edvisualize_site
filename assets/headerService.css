@@ -205,9 +205,9 @@ header {
     }
 
     #navbar.active {
-        height: calc(100vh - 60px);
-        bottom: 0;
-        width: 320px;
+        height: calc(60vh - 60px);
+        bottom: 40vh;
+        width: 200px;
     }
 
     #navbar ul {
@@ -216,7 +216,8 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        padding: 0;
+        margin-bottom: 0px;
     }
 
     #navbar ul li a {
@@ -235,7 +236,7 @@ header {
     }
 
     #navbar ul li a:hover {
-        color: rgb(0, 19, 188);
+        color: rgb(14, 19, 69);
         /* background: #19043d8f; */
         font-size: 1.7em;
         transition: 0.5s;
@@ -243,7 +244,7 @@ header {
     }
 }
 
-@media (min-width:375px) and (max-width:394px) {
+@media (min-width:374px) and (max-width:394px) {
     #navbar {
         position: fixed;
         bottom: -100%;
@@ -253,13 +254,13 @@ header {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: calc(100vh - 60px);
+        height: calc(50vh - 60px);
     }
 
     #navbar.active {
-        height: calc(46vh - 60px);
-        bottom: 29rem;
-        width: 235px;
+        height: calc(50vh - 60px);
+        bottom: 50vh;
+        width: 200px;
     }
 
     #navbar ul {
@@ -268,7 +269,8 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        padding: 0;
+        margin-bottom: 0px;
     }
 
     #navbar ul li a {
@@ -287,7 +289,7 @@ header {
     }
 
     #navbar ul li a:hover {
-        color: rgb(0, 19, 188);
+        color: rgb(16, 21, 67);
         /* background: #19043d8f; */
         font-size: 1.7em;
         transition: 0.5s;
@@ -311,8 +313,8 @@ header {
 
     #navbar.active {
         height: calc(60vh - 60px);
-    bottom: 16rem;
-    width: 190px;
+        bottom: 40vh;
+        width: 200px;
     }
 
     #navbar ul {
@@ -321,7 +323,8 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        padding: 0;
+        margin-bottom: 0px;
     }
 
     #navbar ul li a {
@@ -340,7 +343,7 @@ header {
     }
 
     #navbar ul li a:hover {
-        color: rgb(0, 19, 188);
+        color: rgb(13, 18, 63);
         /* background: #19043d8f; */
         font-size: 1.7em;
         transition: 0.5s;
@@ -363,9 +366,9 @@ header {
     }
 
     #navbar.active {
-        height: calc(58vh - 60px);
-        bottom: 20rem;
-        width: 202px;
+        height: calc(50vh - 60px);
+        bottom: 50vh;
+        width: 200px;
     }
 
     #navbar ul {
@@ -374,7 +377,8 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        padding: 0;
+        margin-bottom: 0px;
     }
 
     #navbar ul li a {
@@ -393,7 +397,7 @@ header {
     }
 
     #navbar ul li a:hover {
-        color: rgb(0, 19, 188);
+        color: rgb(12, 17, 61);
         /* background: #19043d8f; */
         font-size: 1.7em;
         transition: 0.5s;
@@ -416,9 +420,9 @@ header {
     }
 
     #navbar.active {
-        height: calc(45vh - 60px);
-        bottom: 30rem;
-        width: 230px;
+        height: calc(50vh - 60px);
+        bottom: 50vh;
+        width: 200px;
     }
 
     #navbar ul {
@@ -427,7 +431,8 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        padding: 0;
+        margin-bottom: 0px;
     }
 
     #navbar ul li a {
@@ -446,7 +451,7 @@ header {
     }
 
     #navbar ul li a:hover {
-        color: rgb(0, 19, 188);
+        color: rgb(13, 18, 67);
         /* background: #19043d8f; */
         font-size: 1.7em;
         transition: 0.5s;
@@ -467,11 +472,11 @@ header {
         align-items: center;
         height: calc(100vh - 60px);
     }
-    #navbar.active
-    {
-        height: calc(101vh - 60px);
-        bottom: 0rem;
-        width: 324px;
+
+    #navbar.active {
+        height: calc(50vh - 60px);
+        bottom: 50vh;
+        width: 200px;
     }
     #navbar ul {
         position: relative;
@@ -479,7 +484,8 @@ header {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        padding: 0;
+        margin-bottom: 0px;
     }
     #navbar ul li a {
         color: black;
@@ -497,7 +503,7 @@ header {
     }
     
     #navbar ul li a:hover {
-        color: rgb(0, 19, 188);
+        color: rgb(15, 20, 67);
         /* background: #19043d8f; */
        font-size: 1.7em;
        transition: 0.5s;
