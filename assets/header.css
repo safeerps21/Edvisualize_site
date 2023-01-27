@@ -247,8 +247,8 @@ header {
 @media (min-width:374px) and (max-width:394px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+        bottom: 0;
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
@@ -260,6 +260,7 @@ header {
     #navbar.active {
         height: calc(50vh - 60px);
         bottom: 50vh;
+Right:0;
         width: 200px;
     }
 
