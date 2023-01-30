@@ -34,8 +34,8 @@ header {
     position: absolute;
     top: 0;
     right: 0;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     background: #ffffff;
     cursor: pointer;
     display: flex;
@@ -106,7 +106,7 @@ header {
 
 #navbar ul li a {
     color: rgb(0, 0, 0);
-    height: 60px;
+    height: 45px;
     line-height: 60px;
     display: inline-block;
     text-decoration: none;
@@ -114,7 +114,7 @@ header {
     padding: 0 15px;
     letter-spacing: 0px;
     white-space: normal;
-    transition: 0.9s;
+   
     font-weight: 700;
 
 }
@@ -122,8 +122,9 @@ header {
 #navbar ul li a:hover {
     color: rgb(12, 19, 86);
     /* background: #19043d5b; */
-
-    transition: 0.9s;
+border-bottom: 1px solid rgb(12, 19, 86);
+ 
+    
 
 }
 
@@ -194,8 +195,8 @@ header {
 @media (max-width:280px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+        bottom: 0;
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
@@ -207,6 +208,7 @@ header {
     #navbar.active {
         height: calc(60vh - 60px);
         bottom: 40vh;
+        right: 0;
         width: 200px;
     }
 
@@ -223,7 +225,7 @@ header {
     #navbar ul li a {
         color: black;
         height: 60px;
-        line-height: 60px;
+        line-height: 50px;
         display: inline-block;
         text-decoration: none;
         font-size: 1.4em;
@@ -247,20 +249,21 @@ header {
 @media (min-width:374px) and (max-width:394px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+      
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
         justify-content: center;
-        align-items: center;
-        height: calc(50vh - 60px);
+        align-items: center; 
     }
 
     #navbar.active {
-        height: calc(50vh - 60px);
-        bottom: 50vh;
+        height: calc(40vh - 60px);
+        bottom: 60vh;
+        right: 0;
         width: 200px;
+        border-radius: 0 0 8px 8px;
     }
 
     #navbar ul {
@@ -275,8 +278,8 @@ header {
 
     #navbar ul li a {
         color: black;
-        height: 60px;
-        line-height: 60px;
+        height: 45px;
+        line-height: 50px;
         display: inline-block;
         text-decoration: none;
         font-size: 1.4em;
@@ -301,20 +304,21 @@ header {
 @media (min-width:280px) and (max-width:376px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
         justify-content: center;
         align-items: center;
-        height: calc(100vh - 60px);
+        
     }
 
     #navbar.active {
-        height: calc(60vh - 60px);
-        bottom: 40vh;
+        height: calc(45vh - 60px);
+        bottom: 55vh;
+        right: 0;
         width: 200px;
+        border-radius: 0 0 8px 8px;
     }
 
     #navbar ul {
@@ -329,8 +333,8 @@ header {
 
     #navbar ul li a {
         color: black;
-        height: 60px;
-        line-height: 60px;
+        height: 35px;
+        line-height: 50px;
         display: inline-block;
         text-decoration: none;
         font-size: 1.4em;
@@ -355,20 +359,21 @@ header {
 @media (min-width:359px) and (max-width:361px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+       
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
         justify-content: center;
-        align-items: center;
-        height: calc(100vh - 60px);
+        align-items: center; 
     }
 
     #navbar.active {
-        height: calc(50vh - 60px);
-        bottom: 50vh;
+        height: calc(40vh - 60px);
+        bottom: 60vh;
+        right: 0;
         width: 200px;
+        border-radius: 0 0 8px 8px;
     }
 
     #navbar ul {
@@ -383,8 +388,8 @@ header {
 
     #navbar ul li a {
         color: black;
-        height: 60px;
-        line-height: 60px;
+        height: 45px;
+        line-height: 50px;
         display: inline-block;
         text-decoration: none;
         font-size: 1.4em;
@@ -409,20 +414,21 @@ header {
 @media (min-width:400px) and (max-width:415px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+      
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
         justify-content: center;
-        align-items: center;
-        height: calc(100vh - 60px);
+        align-items: center; 
     }
 
     #navbar.active {
-        height: calc(50vh - 60px);
-        bottom: 50vh;
+        height: calc(35vh - 60px);
+        bottom: 65vh;
+        right: 0;
         width: 200px;
+        border-radius: 0 0 8px 8px;
     }
 
     #navbar ul {
@@ -437,8 +443,8 @@ header {
 
     #navbar ul li a {
         color: black;
-        height: 60px;
-        line-height: 60px;
+        height: 45px;
+        line-height: 50px;
         display: inline-block;
         text-decoration: none;
         font-size: 1.4em;
@@ -463,20 +469,21 @@ header {
 @media (min-width:800px) and (max-width:825px) {
     #navbar {
         position: fixed;
-        bottom: -100%;
-        right: 0;
+       
+        right: -100%;
         width: 100%;
         transition: 0.5s;
         display: flex;
         justify-content: center;
-        align-items: center;
-        height: calc(100vh - 60px);
+        align-items: center; 
     }
 
     #navbar.active {
-        height: calc(50vh - 60px);
-        bottom: 50vh;
+        height: calc(40vh - 60px);
+        bottom: 60vh;
+        right: 0;
         width: 200px;
+        border-radius: 0 0 8px 8px;
     }
     #navbar ul {
         position: relative;
@@ -489,8 +496,8 @@ header {
     }
     #navbar ul li a {
         color: black;
-        height: 60px;
-        line-height: 60px;
+        height: 45px;
+        line-height: 50px;
         display: inline-block;
         text-decoration: none;
         font-size: 1.4em;
