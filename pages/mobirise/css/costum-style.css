@@ -500,3 +500,14 @@ margin-top: 400px;
   .close-navbar-toggler.collapsed{
     z-index:-1;
   }
+  #teamWorkDiv{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    color: #263d5a;
+    
+  }
+  .teamTitle{
+    font-size: 25px;
+    font-weight: 600;
+  }
