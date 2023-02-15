@@ -503,7 +503,8 @@ margin-top: 400px;
   #teamWorkDiv{
     display: flex;
     justify-content: center;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
     color: #263d5a;
     
   }
